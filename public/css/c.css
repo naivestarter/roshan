@@ -1,0 +1,38 @@
+body{
+    font-family:Arial;
+    padding: 0px;
+    margin: 0px;
+    background-color: #a89f9f33;
+  }
+  *{
+    padding: 0px;
+    margin: 0px;
+  }
+      .hearde{
+background-color: #e3f0ed;
+color: #7f7fed;
+padding: 10px;
+
+
+      }
+      .navbar{
+        border-radius:0px; 
+        color: #fff;
+      background: blue;
+      border-color: blue;
+      }
+
+      .navbar a{ 
+        color: #fff;
+      }
+      
+      .body{
+
+      }
+      .foots{
+        border-color: #0c0c0c;
+padding: 20px;
+color: #ffffff;
+
+      }
+      
